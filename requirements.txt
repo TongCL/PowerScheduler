@@ -1,0 +1,5 @@
+# 运行依赖
+customtkinter>=6.0.0
+
+# 打包依赖（仅重新打包 exe 时需要）
+pyinstaller>=6.22.0
